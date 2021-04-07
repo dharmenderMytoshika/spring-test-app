@@ -1,10 +1,10 @@
 ## Spring Boot + Rest
-- It will run in all cases and there will not be 403 error in response.
+- It will run in all cases and there will not be 403 error in response. 
 
 ### Usage
 
 - Run the application and go on http://localhost:8082/
-- Use the TestController url to invoke controllers methods.
+- Use the TestController url to invoke controller methods.
 
 ### Build and run
 
