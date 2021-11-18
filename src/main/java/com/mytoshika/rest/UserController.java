@@ -10,7 +10,7 @@ public class TestController {
 	@RequestMapping(value = "/test", method = RequestMethod.GET)
 	public String createNewUser() {
 
-		return "successMessage: User has been Created successfully";
+		return "successMessage: User has been registered successfully";
 	}
 
 }
